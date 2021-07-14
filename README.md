@@ -1,5 +1,5 @@
 # React Todo App   <img align="center" width="60" height="50" src="public/todo-icon.png">
-## A simple Todo App built with Reactjs and material UI :smiley:  
+## A simple Todo App built with Reactjs and material UI 
 
 ## [Live Site](https://wanderlusters-booktours.herokuapp.com/)
 https://wanderlusters-booktours.herokuapp.com/
